@@ -1,6 +1,5 @@
 # Fashion MNIST Image Classification using CNN
 
-dd a logo or relevant image here -->
 
 A Convolutional Neural Network (CNN) based image classification model for the Fashion MNIST dataset. This project aims to accurately classify grayscale images of fashion items into their respective categories.
 
@@ -46,8 +45,4 @@ After training the model, you can expect to see the accuracy and loss metrics pr
 
 
 
-Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
